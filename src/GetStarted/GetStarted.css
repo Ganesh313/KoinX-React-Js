@@ -1,0 +1,25 @@
+.getstarted{
+    text-align: center;
+    background-color: rgb(6, 129, 244);
+    border-radius: 5%;
+    color: white;
+    padding: 2%;
+}
+.img1{
+    width:45%;
+    border-radius: 10%;
+}
+.list{
+    text-decoration: none;
+}
+.increase1{
+    width:auto;
+    height: fit-content;  
+    background-color: rgb(230, 247, 230);
+    border-radius: 10%; 
+    padding-left: 1%;
+    padding-right: 1%;
+    color: green;
+    margin-left: 30%;
+    margin-top: -2%;
+}

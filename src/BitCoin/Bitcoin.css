@@ -1,0 +1,59 @@
+.bit{
+   margin: 1%;
+}
+.d-flex{
+    display: flex;
+}
+
+.btc{
+    color:rgba(46, 44, 44, 0.559);
+    margin-top: 1%;
+}
+.container-fluid{
+    padding: 1%;
+}
+.price{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 1%;
+}
+.rank{
+   margin-left: 20%;
+}
+.increase{
+    background-color: rgb(230, 247, 230);
+    border-radius: 10%; 
+    padding-left: 1%;
+    padding-right: 1%;
+    color: green;
+    margin-left: 20%;
+  
+}
+.img2{
+    width:100%;
+}
+.h6{
+    font-family: 'Courier New', Courier, monospace;
+}
+@media screen and (max-width:1024px) {
+
+ .coin{
+    margin-left: 2%;
+    width:auto;
+    height: fit-content;
+}
+.btc{
+    color:rgba(46, 44, 44, 0.559);
+    margin-top: 1%;
+}  
+.increase{
+    width:auto;
+    height: fit-content;  
+    background-color: rgb(230, 247, 230);
+    border-radius: 10%; 
+    padding-left: 1%;
+    padding-right: 1%;
+    color: green;
+    margin-left: 10%;
+    margin-top: -2%;
+}
+}

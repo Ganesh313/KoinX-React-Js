@@ -1,0 +1,22 @@
+.icon{
+    margin-top: 1.6%;
+    margin-left: 1%;
+}
+.green{
+    background-color: rgb(156, 223, 133);
+    border-radius: 5%;
+    padding: 1%;
+    margin: 1%; 
+}
+.blue{
+    background-color: rgb(158, 189, 232);
+    border-radius: 5%;
+    padding: 1%;
+    margin: 1%; 
+}
+@media screen and (max-width:1024px) {
+    .icon{
+        margin-top: 4.5%;
+        margin-left: 2%;
+    }  
+}

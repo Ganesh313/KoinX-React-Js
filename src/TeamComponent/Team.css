@@ -1,0 +1,22 @@
+.heading{
+    font-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', Arial, Helvetica, sans-serif;
+}
+.img{
+    height:105px;
+    border-radius: 10%;
+}
+.person{
+    text-align: center;
+    height: 90%;
+}
+.grid{
+    height: 90%; 
+}
+.maindiv{
+    background-color:hwb(0 100% 0%);
+    padding: 1%;
+}
+.para{
+display: inline-block;
+}
